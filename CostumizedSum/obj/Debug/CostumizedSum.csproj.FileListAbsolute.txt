@@ -1,0 +1,10 @@
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\bin\Debug\CostumizedSum.exe.config
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\bin\Debug\CostumizedSum.exe
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\bin\Debug\CostumizedSum.pdb
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\obj\Debug\CostumizedSum.csproj.AssemblyReference.cache
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\obj\Debug\CostumizedSum.Form1.resources
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\obj\Debug\CostumizedSum.Properties.Resources.resources
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\obj\Debug\CostumizedSum.csproj.GenerateResource.cache
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\obj\Debug\CostumizedSum.csproj.CoreCompileInputs.cache
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\obj\Debug\CostumizedSum.exe
+C:\Users\Dashmir\source\repos\CostumizedSum\CostumizedSum\obj\Debug\CostumizedSum.pdb
