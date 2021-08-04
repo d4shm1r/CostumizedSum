@@ -30,7 +30,6 @@ namespace CostumizedSum {
 
             int startValue = Convert.ToInt32(textBox1.Text);
             int endValue = Convert.ToInt32(textBox2.Text);
-            int sum1 = 0;
             int sum2 = 0;
             int sum3 = 0;
 
@@ -42,7 +41,7 @@ namespace CostumizedSum {
             for (int k = 1; k <= startValue - 1; k++) {
                 sum3 = sum3 + k;
             }
-            sum1 = sum2 - sum3;
+            int sum1 = sum2 - sum3;
             textBox3.Text = Convert.ToString(sum1);
 
             /*
